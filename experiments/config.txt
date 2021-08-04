@@ -1,0 +1,6 @@
+num_workers,10;format,colstore;block_size,2mb;QUERIES,ALL;seq,
+num_workers,10;format,rowstore;block_size,2mb;QUERIES,ALL;seq,
+num_workers,10;format,colstore;block_size,512kb;QUERIES,ALL;seq,
+num_workers,10;format,rowstore;block_size,512kb;QUERIES,ALL;seq,
+num_workers,10;format,colstore;block_size,128kb;QUERIES,ALL;seq,
+num_workers,10;format,rowstore;block_size,128kb;QUERIES,ALL;seq,
